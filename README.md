@@ -1,4 +1,4 @@
-<h1>Hi, I'm Viraj! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Quality Assurance Analyst</a></h1>
+<h1>Hi, I'm Viraj! <br/><a href="https://github.com/Virajpunjani786">Programmer</a>, <a href="https://www.linkedin.com/in/viraj-punjani/">Cybersecurity Professional</a>, <a href="">Quality Assurance Analyst</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
